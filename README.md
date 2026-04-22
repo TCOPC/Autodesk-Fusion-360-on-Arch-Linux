@@ -159,8 +159,8 @@ Log in via the browser that opens. After logging in, the browser will return to 
 After the first login there are **two** graphics settings that must be set to OpenGL. Without this, Fusion will crash while loading the 3D workspace, or the sidebar/menu will be white and unusable.
 
 **Setting 1 — Graphics Driver:**
-1. Open **Preferences** (top left → your name → Preferences)
-2. Go to **Graphics**
+1. Open **Preferences** (top right → your name → Preferences)
+2. Go to **General**
 3. Set **Graphics Driver** to **OpenGL**
 4. Click **Apply** and restart Fusion
 
